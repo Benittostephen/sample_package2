@@ -1,3 +1,4 @@
+/*
 library speed_gauge;
 
 import 'package:flutter/material.dart';
@@ -167,3 +168,4 @@ String formatSpeed(int speed) {
     return '${speed.toStringAsFixed(2)} KB/s';
   }
 }
+*/
